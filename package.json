@@ -1,0 +1,14 @@
+{
+  "name": "cypress-facebook-recipe",
+  "version": "1.0.0",
+  "description": "Recipe to download facebook photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}
